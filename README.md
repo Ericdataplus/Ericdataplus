@@ -1,3 +1,9 @@
+<!--  DATA INSIGHTS HUB - PORTFOLIO SHOWCASE -->
+<p align="center">
+  <a href="https://ericdataplus.github.io/my-data-analysis-sites-main-site-hub/">
+    <img src="https://img.shields.io/badge/_VIEW_MY_DATA_PORTFOLIO-6366f1?style=for-the-badge" alt="Data Portfolio"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Eric+Wheeler+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
