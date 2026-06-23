@@ -83,6 +83,8 @@ me.whisper()
 
 | Operation | Briefing | Augments | Dive |
 |:--|:--|:--|:--:|
+| [**🛒 Laptop Market Sweep**](https://github.com/Ericdataplus/kaggle-laptop-sales) | ML value-scoring across 4,400+ units — flagged 680 undervalued targets | `Python` `Pandas` `Scikit-learn` | [📊 dive](https://ericdataplus.github.io/kaggle-laptop-sales/) |
+| [**📚 Archive Dive: 15K Volumes**](https://github.com/Ericdataplus/kaggle-books-dataset) | Decoded 15K+ books across 149 categories | `Python` `Matplotlib` `Seaborn` | [📊 dive](https://ericdataplus.github.io/kaggle-books-dataset/) |
 | [**💳 Ghost-Hack Detection**](https://github.com/Ericdataplus/credit-card-fraud-detect) | Ensemble net hitting 88% PR-AUC on fraud signatures | `TensorFlow` `XGBoost` `WandB` | — |
 
 ### 🤖 Think-Tank Division — AI & Builds  ·  *the Tachikomas*
