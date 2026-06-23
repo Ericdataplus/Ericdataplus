@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/neuralneuron"><img src="https://img.shields.io/badge/Kaggle-neuralneuron-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eric-wheeler-b78585167/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ericdataplus&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
@@ -131,6 +130,5 @@ me.say_hi()
 
 <p align="center">
   <a href="https://github.com/Ericdataplus"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/eric-wheeler-b78585167"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://kaggle.com/neuralneuron"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle"/></a>
 </p>
