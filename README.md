@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/neuralneuron"><img src="https://img.shields.io/badge/Kaggle-neuralneuron-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b0f1a"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ericdataplus&style=for-the-badge&color=00e5ff&label=GHOST-LINE+TAPS" alt="Profile Views"/>
 </p>
 
@@ -84,8 +83,6 @@ me.whisper()
 
 | Operation | Briefing | Augments | Dive |
 |:--|:--|:--|:--:|
-| [**🛒 Laptop Market Sweep**](https://github.com/Ericdataplus/kaggle-laptop-sales) | ML value-scoring across 4,400+ units — flagged 680 undervalued targets | `Python` `Pandas` `Scikit-learn` | [📊 dive](https://ericdataplus.github.io/kaggle-laptop-sales/) |
-| [**📚 Archive Dive: 15K Volumes**](https://github.com/Ericdataplus/kaggle-books-dataset) | Decoded 15K+ books across 149 categories | `Python` `Matplotlib` `Seaborn` | [📊 dive](https://ericdataplus.github.io/kaggle-books-dataset/) |
 | [**💳 Ghost-Hack Detection**](https://github.com/Ericdataplus/credit-card-fraud-detect) | Ensemble net hitting 88% PR-AUC on fraud signatures | `TensorFlow` `XGBoost` `WandB` | — |
 
 ### 🤖 Think-Tank Division — AI & Builds  ·  *the Tachikomas*
@@ -130,5 +127,4 @@ me.whisper()
 
 <p align="center">
   <a href="https://github.com/Ericdataplus"><img src="https://img.shields.io/badge/FOLLOW_THE_GHOST-0b0f1a?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=00e5ff"/></a>
-  <a href="https://www.kaggle.com/neuralneuron"><img src="https://img.shields.io/badge/Kaggle-neuralneuron-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b0f1a"/></a>
 </p>
