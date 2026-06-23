@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Eric+Wheeler+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+neural+%F0%9F%91%8B;Data+Analyst+%7C+Python+Developer;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ I'm a **self-taught Data Analyst & ML Engineer** passionate about turning raw da
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name = "Eric Wheeler"
+        self.name = "neural"
         self.location = "Seattle, WA"
         self.role = "Data Analyst"
         self.languages = ["Python", "SQL", "JavaScript"]
