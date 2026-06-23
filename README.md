@@ -4,17 +4,7 @@
      ============================================================ -->
 
 <p align="center">
-  <a href="https://ericdataplus.github.io/my-data-analysis-sites-main-site-hub/">
-    <img src="https://img.shields.io/badge/%E2%9F%B6_ACCESS_MAINFRAME_%C2%B7_data_portfolio-0b0f1a?style=for-the-badge&labelColor=00e5ff" alt="Data Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=26&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=ghost%2F%2F+neural+%E2%9D%AF+jacking+in...;Net-Runner+%7C+Data+Diver+%7C+ML+Engineer;The+net+is+vast+and+infinite.;Your+ghost+is+whispering+to+you." alt="boot sequence" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ericdataplus&style=for-the-badge&color=00e5ff&label=GHOST-LINE+TAPS" alt="Profile Views"/>
 </p>
 
 > *"I am a living, thinking entity that was created in the sea of information."*
